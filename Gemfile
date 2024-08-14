@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
 ruby "3.3.3"
+gem 'simple_form', '~> 5.3', '>= 5.3.1'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+gem 'sassc-rails', '>= 2.1.0'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.4"
