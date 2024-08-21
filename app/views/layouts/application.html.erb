@@ -38,7 +38,9 @@
             </ul>
           </li>
           <% if user_signed_in? %>
-          <%= link_to "Add new book", new_book_path%>
+          <li>
+            <%= link_to "Add Book", new_book_path%>
+          </li>
           <% end %>
         </ul>
 
