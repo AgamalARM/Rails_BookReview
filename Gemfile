@@ -6,7 +6,7 @@ gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'devise', '~> 4.9', '>= 4.9.4'
 gem 'bootstrap' , '~> 5.2.0'
-gem 'paperclip', '~> 4.2.1'
+#gem 'paperclip', '~> 4.2.1'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.4"
